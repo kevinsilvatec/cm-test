@@ -14,7 +14,7 @@ API criada para teste na CM Tecnologia
 
 # Endpoints
 
-A aplicação tem 3 rotas acessíveis: _/_ e _/singleDigit_ e _saveQuotes_
+A aplicação tem 3 rotas acessíveis: _/_, _/singleDigit_ e _saveQuotes_
 
 ## /
 - Método: GET;
